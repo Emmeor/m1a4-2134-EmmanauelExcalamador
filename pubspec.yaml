@@ -1,0 +1,10 @@
+name: m1a4_calculator
+description: Module 1 - Activity 4 - Calculator (Dart).
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ^3.0.0
+
+dev_dependencies:
+  test: ^1.24.0
